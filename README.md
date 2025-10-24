@@ -8,6 +8,7 @@ A Retrieval-Augmented Generation (RAG) powered Knowledge Base Search Engine that
 
 Live URL:
 🔗(https://knowledge-base-search-engine.vercel.app)
+Backend :- https://knowledge-base-backend.onrender.com
 
 Demo Video:
 🎥 [https://drive.google.com/file/d/your-demo-video-id/view?usp=sharing](https://drive.google.com/file/d/1vgRI6eZDKMfxWXc5x1Xfv2ZuaLYUaryH/view?usp=sharing)
