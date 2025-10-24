@@ -7,7 +7,7 @@ A Retrieval-Augmented Generation (RAG) powered Knowledge Base Search Engine that
 🚀 Live & Demo
 
 Live URL:
-🔗[ [https://your-demo-link-here.vercel.app](http://localhost:3000/)](https://knowledge-base-search-engine.vercel.app)
+🔗(https://knowledge-base-search-engine.vercel.app)
 
 Demo Video:
 🎥 [https://drive.google.com/file/d/your-demo-video-id/view?usp=sharing](https://drive.google.com/file/d/1vgRI6eZDKMfxWXc5x1Xfv2ZuaLYUaryH/view?usp=sharing)
